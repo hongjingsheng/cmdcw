@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0fd39f14-5b2a-4f48-94b0-8475440170a9" name="cmdcw" url="http://120.77.11.71">
+        <fileTransfer host="120.77.11.71" port="22" rootFolder="/home/hjs/webroot" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
